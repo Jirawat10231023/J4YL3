@@ -1,3 +1,3 @@
 ### Jirawat
 
-# NANIS
+# NANI
